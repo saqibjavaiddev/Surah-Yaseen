@@ -1,6 +1,6 @@
 # Surah Yaseen with Urdu and English Translation and Audio
 
-This project displays Surah Yaseen with translations in Urdu and English with audio files. The code is very basic and uses Al-Quran Cloud API. You can check the advanced version of this code used at [Surah Yaseen](https://surahyaseen.net/) Surah Yaseen is considered as the Heart of Holy Quran. And Muslims read it daily or once in a week considering the surah as most useful for them. You can also check Surah [Yaseen PDF version](https://surahyaseen.net/)
+This project displays Surah Yaseen with translations in Urdu and English with audio files. The code is very basic and uses Al-Quran Cloud API. You can check the advanced version of this code used at [Surah Yaseen](https://surahyaseen.net/) Surah Yaseen is considered as the Heart of Holy Quran. And Muslims read it daily or once in a week considering the surah as most useful for them. You can also check [Surah Yaseen PDF](https://surahyaseen.net/) version.
 
 ## Features
 
